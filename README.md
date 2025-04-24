@@ -55,7 +55,6 @@
     </td>
   </tr>
 </table>
----
 
 ### 📫 Contáctame
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-bautista-garcia-705127187/)
