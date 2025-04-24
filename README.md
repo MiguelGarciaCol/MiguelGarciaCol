@@ -16,36 +16,45 @@
 ---
 
 ### 🧰 Tecnologías y herramientas
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-    <span>Java</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-    <span>Spring Boot</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-    <span>MySQL</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-    <span>PostgreSQL</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle DB"/>
-    <span>Oracle DB</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
-    <span>IntelliJ</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-    <span>Git</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+      <br/>
+      <span>Java</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+      <br/>
+      <span>Spring Boot</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+      <br/>
+      <span>MySQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+      <br/>
+      <span>PostgreSQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle DB"/>
+      <br/>
+      <span>Oracle DB</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+      <br/>
+      <span>IntelliJ</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <br/>
+      <span>Git</span>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Contáctame
