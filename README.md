@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hola%2C+soy+Miguel+Garcia+%F0%9F%87%A8%F0%9F%87%B4;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+Iberoamericana;Apasionado+por+Java+%26+Spring+Boot;Amante+de+las+bases+de+datos"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC0&background=00FFC000&center=true&vCenter=true&width=435&lines=Soy+Miguel+Garcia;Estudiante+de+Ingenier%C3%ADa+de+Software;Apasionado+por+Java+y+el+desarrollo+backend+con+Spring+Boot+)](https://git.io/typing-svg"/>
 </p>
 
 ---
