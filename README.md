@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:004d40&height=200&section=header&text=Miguel%20Garcia&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hola%2C+soy+Miguel+Garcia+%F0%9F%87%A8%F0%9F%87%B4;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+Iberoamericana;Apasionado+por+Java+%26+Spring+Boot;Amante+de+las+bases+de+datos"/>
 </p>
 
 ---
@@ -41,4 +41,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelGarciaCol&show_icons=true&theme=radical" alt="github stats"/>
 </p>
+
 
