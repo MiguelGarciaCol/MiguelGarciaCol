@@ -1,5 +1,9 @@
 <p align="right">
-  🌐 <a href="#es">Español</a> | <a href="#en">English</a>
+  🌐 Selecciona idioma: 
+  <select id="language-selector">
+    <option value="es">Español</option>
+    <option value="en">English</option>
+  </select>
 </p>
 
 <!-- Contenido en español -->
@@ -17,6 +21,47 @@
 
   ### 🧰 Tecnologías y herramientas
   <!-- Tabla de tecnologías en español -->
+
+  ### 🧰 Tecnologías y herramientas
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+      <br/>
+      <span>Java</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+      <br/>
+      <span>Spring Boot</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+      <br/>
+      <span>MySQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+      <br/>
+      <span>PostgreSQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle DB"/>
+      <br/>
+      <span>Oracle DB</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+      <br/>
+      <span>IntelliJ</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <br/>
+      <span>Git</span>
+    </td>
+  </tr>
+</table>
 </div>
 
 <!-- Contenido en inglés -->
@@ -34,16 +79,60 @@
 
   ### 🧰 Technologies and Tools
   <!-- Tabla de tecnologías en inglés -->
+  ### 🧰 Tecnologías y herramientas
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+      <br/>
+      <span>Java</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+      <br/>
+      <span>Spring Boot</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+      <br/>
+      <span>MySQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+      <br/>
+      <span>PostgreSQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle DB"/>
+      <br/>
+      <span>Oracle DB</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+      <br/>
+      <span>IntelliJ</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <br/>
+      <span>Git</span>
+    </td>
+  </tr>
+</table>
 </div>
 
 <script>
   // Script para cambiar entre idiomas
-  document.querySelectorAll('a[href="#es"], a[href="#en"]').forEach(link => {
-    link.addEventListener('click', (e) => {
-      e.preventDefault();
-      const lang = e.target.getAttribute('href').substring(1);
-      document.getElementById('es').style.display = lang === 'es' ? 'block' : 'none';
-      document.getElementById('en').style.display = lang === 'en' ? 'block' : 'none';
+  const languageSelector = document.getElementById('language-selector');
+  const sections = {
+    es: document.getElementById('es'),
+    en: document.getElementById('en')
+  };
+
+  languageSelector.addEventListener('change', (e) => {
+    const selectedLanguage = e.target.value;
+    Object.keys(sections).forEach(lang => {
+      sections[lang].style.display = lang === selectedLanguage ? 'block' : 'none';
     });
   });
 </script>
