@@ -1,37 +1,44 @@
-### Hola! 👋 Soy Miguel Garcia 🇨🇴
+---
 
-Estudiante de Ingeniería de Software en la Fundación Universitaria Iberoamericana. Actualmente estoy aprendiendo **Java** y **Spring Boot**, con el objetivo de dominar completamente el ecosistema de Java junto con **bases de datos**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:004d40&height=200&section=header&text=Miguel%20Garcia&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner"/>
+</p>
 
 ---
 
-### 🧠 Lo que estoy aprendiendo actualmente
-- Desarrollo backend con Java
-- Framework Spring Boot
+### 👋 Hola, soy Miguel Garcia 🇨🇴
+
+🎓 Estudiante de Ingeniería de Software en la Iberoamericana  
+💻 Apasionado por Java y el desarrollo backend con Spring Boot  
+📍 Actualmente en **Colombia**  
+🔍 Aprendiendo **Java**, **Spring Boot** y profundizando en **bases de datos**  
 
 ---
 
-### 💬 Puedes preguntarme sobre:
-- Java en general (POO, colecciones, streams...)
-- Bases de datos relacionales
-- Conceptos de backend
+### 🧰 Tecnologías y herramientas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle DB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
 
 ---
 
-### 📫 Conecta conmigo:
-- [LinkedIn](https://www.linkedin.com/in/miguel-angel-bautista-garcia-705127187/)
+### 📫 Contáctame
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-bautista-garcia-705127187/)
 
 ---
 
-### 🚀 Repositorios destacados
-¡Mira mis proyectos en este perfil! Me enfoco en compartir todo lo que voy aprendiendo en mi camino como desarrollador backend.
+### 📂 Repositorios destacados
+<!-- Aquí se listan automáticamente tus proyectos públicos en GitHub -->
 
 ---
 
-> Gracias por pasarte por aquí 😊 ¡Estoy en constante aprendizaje!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelGarciaCol&show_icons=true&theme=radical" alt="github stats"/>
+</p>
 
-
-
-<!---
-MiguelGarciaCol/MiguelGarciaCol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
